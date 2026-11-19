@@ -1,4 +1,4 @@
-name: pz2_Moldovanov
+name: ci-cd
 
 on:
   push:
