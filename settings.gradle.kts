@@ -1,0 +1,1 @@
+rootProject.name = "pz2_Moldovanov_pr-24.106"

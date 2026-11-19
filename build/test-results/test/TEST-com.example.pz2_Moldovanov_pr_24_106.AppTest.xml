@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.pz2_Moldovanov_pr_24_106.AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-19T17:19:12.270Z" hostname="DESKTOP-SDGFLVC" time="0.126">
+  <properties/>
+  <testcase name="shouldReturnTaskDescription()" classname="com.example.pz2_Moldovanov_pr_24_106.AppTest" time="0.066"/>
+  <testcase name="shouldAddTaskAndIncreaseCount()" classname="com.example.pz2_Moldovanov_pr_24_106.AppTest" time="0.003"/>
+  <testcase name="newTaskShouldNotBeCompleted()" classname="com.example.pz2_Moldovanov_pr_24_106.AppTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
